@@ -17,6 +17,7 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
   - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
   - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
+  - A weekend project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
     
 🌱 I’m currently learning:  
   - C/C++
