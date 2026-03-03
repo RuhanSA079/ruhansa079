@@ -7,17 +7,13 @@ industrial control protocols, embedded computer hardware and a insiatable itch f
 
 Currently residing in Pretoria, Gauteng, South Africa.  
 - Have a congenital hearing impairment and wear hearing aids  
-- Electronics tinkerer  
+- Electronics tinkerer and experimenter (includes some hardware/software mods as well)  
 - Leveraging my experience in Linux systems and hardware–software integration, frequently consulted with to advise on custom hardware design and Linux support considerations.  
 - Highly practical with a strong inclination for DIY problem-solving.
 
 
 🔭 I’m currently working on:
-  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
-  - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
-  - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
-  - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
-  - A weekend project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
+  - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
     
 🌱 I’m currently learning:  
   - C/C++
@@ -28,6 +24,10 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Learning how to use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs, and using RAUC for immutable, recoverable OS updates.
 
 💬 What I achieved/built so far:
+  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
+  - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
+  - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
+  - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
   - Contributed to SharpSNMPLib -> [Added SHA384 and SHA512](https://github.com/lextudio/sharpsnmplib/pull/145)
   - Building a basic kernel module for "boardinfo" -> [Boardinfo driver](https://github.com/RuhanSA079/boardinfo-driver)
   - Custom, minimal Ubuntu Linux distro called AAR-OS -> [AAR-OS](https://github.com/RuhanSA079/AAR-OS)
@@ -52,18 +52,3 @@ Currently residing in Pretoria, Gauteng, South Africa.
  - Contribute more to open-source projects and support the communities with knowledge I have gained from the years,
    from doing all sorts of work-related projects and personal projects.
   
-
-<!--
-**RuhanSA079/ruhansa079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
