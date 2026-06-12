@@ -24,6 +24,7 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Learning how to use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs, and using RAUC for immutable, recoverable OS updates.
 
 💬 What I achieved/built so far:
+  - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
   - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)
   - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
