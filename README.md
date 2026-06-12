@@ -24,6 +24,7 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Learning how to use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs, and using RAUC for immutable, recoverable OS updates.
 
 💬 What I achieved/built so far:
+  - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)
   - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
   - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
