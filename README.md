@@ -13,9 +13,13 @@ Currently residing in Pretoria, Gauteng, South Africa.
 
 
 🔭 I’m currently working on:
-  - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
+---
+  - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)   
+      Wrote the application way before vibe-coding was a thing, and then used Claude to help clean up a bit
+  
     
 🌱 I’m currently learning:  
+---
   - C/C++
   - Some golang
   - C# and interfacing between Linux and .NET (Marshaling, P/Invoke)
@@ -23,10 +27,14 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Bash scripting
   - Learning how to use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs, and using RAUC for immutable, recoverable OS updates.
 
-💬 What I achieved/built so far:
-  - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
-  - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)
-  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
+💬 What I achieved/built so far (Vibe-coded or used assistance from Claude/ChatGPT):
+---
+ - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
+ - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
+ - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
+
+💬 What I achieved/built so far (Before vibe-coding was a term):
+---
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
   - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
   - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
@@ -51,6 +59,7 @@ Currently residing in Pretoria, Gauteng, South Africa.
     - Old, deprecated raspi-gpio snap (Used for internal testing) -> [Raspi-GPIO-snap](https://github.com/RuhanSA079/raspi-gpio-snap)
 
 ✨ What I wish to achieve:
+---
  - Contribute more to open-source projects and support the communities with knowledge I have gained from the years,
    from doing all sorts of work-related projects and personal projects.
   
