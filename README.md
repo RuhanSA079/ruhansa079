@@ -16,22 +16,26 @@ Currently residing in Pretoria, Gauteng, South Africa.
 ---
   - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)   
       Wrote the application way before vibe-coding was a thing, and then used Claude to help clean up a bit
+
+ - ESP-NOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz (Source code to follow soon)
+ - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> (Source code to follow soon)
+ - UDPSoundClient - Take UDP, raw PCM audio data and stream to output device (Soundcard, audio pipeline, etc) -> (Source code to follow soon)
   
     
 🌱 I’m currently learning:  
 ---
   - C/C++
-  - Some golang
   - C# and interfacing between Linux and .NET (Marshaling, P/Invoke)
-  - Some HTML and JS for basic front-end development
+  - Some HTML and JS for basic front-end web development
   - Bash scripting
-  - Learning how to use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs, and using RAUC for immutable, recoverable OS updates.
+  - Use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs. Using RAUC for immutable, recoverable OS updates.
+  - Want to learn a bit of Go and Rust.
 
 💬 What I achieved/built so far (Vibe-coded or used assistance from Claude/ChatGPT):
 ---
  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
  - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
- - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
+ - WiFiPacketRadio (WPR) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
 
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
