@@ -31,8 +31,9 @@ Currently residing in Pretoria, Gauteng, South Africa.
   - Use and build custom Linux OS images from kernel sources and using Buildroot or a rootfs. Using RAUC for immutable, recoverable OS updates.
   - Want to learn a bit of Go and Rust.
 
-💬 What I achieved/built so far (Vibe-coded or used assistance from Claude/ChatGPT):
+💬 What I achieved/built so far (Vibe-coded or used assistance from Claude & Codex):
 ---
+ - LGE_R105_Python - A LG R105 or 360-degree camera control application in Python (including web-control) - [LGE_R105_Python](https://github.com/RuhanSA079/LGE_R105_Python)
  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
  - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
  - WiFiPacketRadio (WPR) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
