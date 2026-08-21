@@ -14,15 +14,10 @@ Currently residing in Pretoria, Gauteng, South Africa.
 
 🔭 I’m currently working on:
 ---
-  - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)   
-      Wrote the application way before vibe-coding was a thing, and then used Claude to help clean up a bit
-
- - ESP-NOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz (Source code to follow soon)
- - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> (Source code to follow soon)
- - UDPSoundClient - Take UDP, raw PCM audio data and stream to output device (Soundcard, audio pipeline, etc) -> (Source code to follow soon)
+ - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer)
   
     
-🌱 I’m currently learning:  
+🌱 I’m currently learning/want to learn:  
 ---
   - C/C++
   - C# and interfacing between Linux and .NET (Marshaling, P/Invoke)
@@ -37,7 +32,9 @@ Currently residing in Pretoria, Gauteng, South Africa.
  - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
  - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
  - WiFiPacketRadio (WPR) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
-
+ - ESP-NOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz (Source code to follow soon)
+ - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)
+   
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
