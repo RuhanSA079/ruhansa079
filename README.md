@@ -3,7 +3,7 @@
 I am a C# software developer, having written a few libraries/snaps/applications from the projects I'm experimenting on.  
 
 My name is Ruhan, curious on how things work (software wise) and a person with deep knowledge on   
-industrial control protocols, embedded computer hardware and a insiatable itch for diagnosing and fixing problems.
+industrial control protocols, embedded computer hardware and a insatiable itch for diagnosing and fixing problems.
 
 Currently residing in Pretoria, Gauteng, South Africa.  
 - Have a congenital hearing impairment and wear hearing aids  
@@ -12,9 +12,9 @@ Currently residing in Pretoria, Gauteng, South Africa.
 - Highly practical with a strong inclination for DIY problem-solving.
 
 
-🔭 I’m currently working on:
+🔭 I’m currently working/experimenting on:
 ---
- - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer)
+ - No new or current projects or experiments.
   
     
 🌱 I’m currently learning/want to learn:  
@@ -28,17 +28,18 @@ Currently residing in Pretoria, Gauteng, South Africa.
 
 💬 What I achieved/built so far (Vibe-coded or used assistance from Claude & Codex):
 ---
+ - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer)
  - LGE_R105_Python - A LG-R105 360 camera control application in Python (including web-control, video stitch tool) - [LGE_R105_Python](https://github.com/RuhanSA079/LGE_R105_Python)
- - CirclePiDeskClock -> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
- - ESP-NOW_OTA (ESP8266 OTA updates over ESP-NOW) -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
+ - CirclePiDeskClock - A Baremetal C++ application for a Raspberry Pi as a desktop clock-> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
+ - ESP-NOW_OTA - ESP8266 OTA updates over ESP-NOW -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
  - WiFiPacketRadio (WPR) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
- - ESP-NOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz (Source code to follow soon)
- - SolisView (Kivy application for pulling Solis solar hybrid inverter data) -> [SolisView](https://github.com/RuhanSA079/SolisView)
+ - ESPNOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz Wi-Fi [ESPNOW_Linux](https://github.com/RuhanSA079/ESPNOW_Linux)
+ - SolisView - Kivy application for pulling Solis solar hybrid inverter data -> [SolisView](https://github.com/RuhanSA079/SolisView)
    
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
   - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
-  - OpenWRT build for Cambium Force200L-SM unit picked up from previous ISP's installation -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
+  - OpenWRT build for Cambium Force200L-SM -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
   - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
   - Contributed to SharpSNMPLib -> [Added SHA384 and SHA512](https://github.com/lextudio/sharpsnmplib/pull/145)
   - Building a basic kernel module for "boardinfo" -> [Boardinfo driver](https://github.com/RuhanSA079/boardinfo-driver)
