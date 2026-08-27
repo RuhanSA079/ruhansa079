@@ -28,13 +28,13 @@ Currently residing in Pretoria, Gauteng, South Africa.
 
 💬 What I achieved/built so far (Vibe-coded or used assistance from Claude & Codex):
 ---
- - UDPSoundServer - Basic, raw PCM audio streamer from ALSA recording device to UDP socket -> [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer)
- - LGE_R105_Python - A LG-R105 360 camera control application in Python (including web-control, video stitch tool) - [LGE_R105_Python](https://github.com/RuhanSA079/LGE_R105_Python)
- - CirclePiDeskClock - A Baremetal C++ application for a Raspberry Pi as a desktop clock-> [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock)
- - ESP-NOW_OTA - ESP8266 OTA updates over ESP-NOW -> [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA)
- - WiFiPacketRadio (WPR) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio -> [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio)
- - ESPNOW_Linux - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz Wi-Fi [ESPNOW_Linux](https://github.com/RuhanSA079/ESPNOW_Linux)
- - SolisView - Kivy application for pulling Solis solar hybrid inverter data -> [SolisView](https://github.com/RuhanSA079/SolisView)
+ - [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer) - Basic, raw PCM audio streamer from ALSA recording device to UDP socket   
+ - [LGE_R105_Python](https://github.com/RuhanSA079/LGE_R105_Python) - A LG-R105 360 camera control application in Python (including web-control, video stitch tool)   
+ - [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock) - A Baremetal C++ application for a Raspberry Pi as a desktop clock   
+ - [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA) - ESP8266 OTA updates over ESP-NOW   
+ - [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio   
+ - [ESPNOW_Linux](https://github.com/RuhanSA079/ESPNOW_Linux) - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz Wi-Fi   
+ - [SolisView](https://github.com/RuhanSA079/SolisView) - Kivy application for pulling Solis solar hybrid inverter data over a RS485 Modbus RTU connection   
    
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
