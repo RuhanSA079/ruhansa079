@@ -28,6 +28,7 @@ Currently residing in Pretoria, Gauteng, South Africa.
 
 💬 What I achieved/built so far (Vibe-coded or used assistance from Claude & Codex):
 ---
+ - [DVRIP-Web](https://github.com/RuhanSA079/dvrip-web) - Basic python-based DVRIP NVR or DVR based web browsing tool without external plugins/ActiveX code. 
  - [UDPSoundServer](https://github.com/RuhanSA079/UDPSoundServer) - Basic, raw PCM audio streamer from ALSA recording device to UDP socket   
  - [LGE_R105_Python](https://github.com/RuhanSA079/LGE_R105_Python) - A LG-R105 360 camera control application in Python (including web-control, video stitch tool)   
  - [CirclePiDeskClock](https://github.com/RuhanSA079/CirclePiDeskclock) - A Baremetal C++ application for a Raspberry Pi as a desktop clock   
