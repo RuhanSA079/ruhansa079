@@ -39,9 +39,9 @@ Currently residing in Pretoria, Gauteng, South Africa.
    
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
-  - Porting Ubuntu-Rockchip for Radxa CM3 -> Links to be added soon
-  - OpenWRT build for Cambium Force200L-SM -> [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L)
-  - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR -> [My go2rtc fork](https://github.com/RuhanSA079/go2rtc)
+  - [RADXA CM3 IO](https://github.com/RuhanSA079/ubuntu-rockchip) - Ported Ubuntu for Radxa CM3 IO - 16GB/2GB configuration with BT+WiFi
+  - [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L) - Experimental OpenWRT build for Cambium Force200L-SM device
+  - [Hik-dvr-go2rtc](https://github.com/RuhanSA079/go2rtc) - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR
   - Contributed to SharpSNMPLib -> [Added SHA384 and SHA512](https://github.com/lextudio/sharpsnmplib/pull/145)
   - Building a basic kernel module for "boardinfo" -> [Boardinfo driver](https://github.com/RuhanSA079/boardinfo-driver)
   - Custom, minimal Ubuntu Linux distro called AAR-OS -> [AAR-OS](https://github.com/RuhanSA079/AAR-OS)
