@@ -35,11 +35,11 @@ Currently residing in Pretoria, Gauteng, South Africa.
  - [ESP-NOW_OTA](https://github.com/RuhanSA079/ESP-NOW_OTA) - ESP8266 OTA updates over ESP-NOW   
  - [WiFiPacketRadio](https://github.com/RuhanSA079/WiFiPacketRadio) - A experimental project doing WiFi packet injection/receiving codec2 compressed audio   
  - [ESPNOW_Linux](https://github.com/RuhanSA079/ESPNOW_Linux) - Replicate ESP-NOW methods and data send/receive using raw packet injection on Linux on 2.4GHz Wi-Fi   
- - [SolisView](https://github.com/RuhanSA079/SolisView) - Kivy application for pulling Solis solar hybrid inverter data over a RS485 Modbus RTU connection   
+ - [SolisView](https://github.com/RuhanSA079/SolisView) - Kivy application for pulling Solis solar hybrid inverter data over a RS485 Modbus RTU connection
+ - [RADXA CM3 IO](https://github.com/RuhanSA079/ubuntu-rockchip) - Ported Ubuntu for Radxa CM3 IO - 16GB/2GB configuration with BT+WiFi (noble kernel branch + boardinfo driver)
    
 💬 What I achieved/built so far (Before vibe-coding was a term):
 ---
-  - [RADXA CM3 IO](https://github.com/RuhanSA079/ubuntu-rockchip) - Ported Ubuntu for Radxa CM3 IO - 16GB/2GB configuration with BT+WiFi
   - [Cambium Force 200L-SM branch](https://github.com/RuhanSA079/openwrt-ruhan/tree/cambium_force200L) - Experimental OpenWRT build for Cambium Force200L-SM device
   - [Hik-dvr-go2rtc](https://github.com/RuhanSA079/go2rtc) - Experimental patches for the ONVIF protocol on go2rtc for Hikvision DVR/NVR
   - Contributed to SharpSNMPLib -> [Added SHA384 and SHA512](https://github.com/lextudio/sharpsnmplib/pull/145)
